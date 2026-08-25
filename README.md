@@ -1,0 +1,13 @@
+# Sistema de Mecânica e Funilaria
+
+Projeto desenvolvido para o professor **Robson**, com o objetivo de criar um sistema voltado para oficinas de mecânica e funilaria.
+
+A ideia surgiu a partir de uma situação-problema em que um mecânico recebeu um carro roubado para realizar um serviço sem saber da procedência do veículo. Com isso, acabou tendo problemas relacionados à receptação.
+
+O sistema tem como principal objetivo ajudar a evitar situações desse tipo, permitindo que o mecânico consulte informações de um veículo através da **placa** antes de realizar um serviço.
+
+Além da consulta de placas, o projeto contará com **sistema de login** e um **banco de dados**, onde as informações serão armazenadas e relacionadas ao usuário que realizou a consulta.
+
+O sistema busca trazer mais segurança e organização para oficinas, facilitando a verificação dos veículos recebidos e mantendo um histórico das consultas realizadas.
+
+**Status:** Em desenvolvimento.
