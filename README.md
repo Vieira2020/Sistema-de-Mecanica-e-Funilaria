@@ -10,4 +10,3 @@ Além da consulta de placas, o projeto contará com **sistema de login** e um **
 
 O sistema busca trazer mais segurança e organização para oficinas, facilitando a verificação dos veículos recebidos e mantendo um histórico das consultas realizadas.
 
-**Status:** Em desenvolvimento.
